@@ -1,2 +1,7 @@
 .metadata
 RemoteSystemsTempFiles
+.recommenders
+.classpath
+.gitignore
+.settings
+.project
